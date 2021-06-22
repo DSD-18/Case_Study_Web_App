@@ -1,0 +1,24 @@
+body{
+    background : rgb(231, 217, 28);
+}
+.text_images_and_result{
+    color: #000066;
+    font-family: 'Amatic SC', cursive;
+}
+img{
+    box-shadow: 5px  5px 18px black;
+    height : 250px;
+    width: 280px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: #000066;
+    bottom: 0;
+    width :100%;
+    background: rgb(172, 167, 167);
+    line-height: 3 ;
+    text-align: center;
+}
+#case{
+    box-shadow: none;
+}
